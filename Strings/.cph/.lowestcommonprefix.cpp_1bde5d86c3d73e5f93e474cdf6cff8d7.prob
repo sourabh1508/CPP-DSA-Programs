@@ -1,0 +1,1 @@
+{"name":"Local: lowestcommonprefix","url":"c:\\Users\\soura\\Desktop\\C++ notes\\codings\\Strings\\lowestcommonprefix.cpp","tests":[{"id":1658496820915,"input":"3\nabcd abcde abcdef","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\soura\\Desktop\\C++ notes\\codings\\Strings\\lowestcommonprefix.cpp","group":"local","local":true}

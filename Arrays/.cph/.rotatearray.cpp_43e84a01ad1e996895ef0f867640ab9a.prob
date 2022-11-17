@@ -1,0 +1,1 @@
+{"name":"Local: rotatearray","url":"c:\\Users\\soura\\Desktop\\C++ notes\\codings\\Arrays\\rotatearray.cpp","tests":[{"id":1658922162348,"input":"5\n1 2 3 4 5\n2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\soura\\Desktop\\C++ notes\\codings\\Arrays\\rotatearray.cpp","group":"local","local":true}

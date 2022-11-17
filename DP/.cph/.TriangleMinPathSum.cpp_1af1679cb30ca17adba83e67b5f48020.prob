@@ -1,0 +1,1 @@
+{"name":"Local: TriangleMinPathSum","url":"c:\\Users\\soura\\Desktop\\C++ notes\\codings\\DP\\TriangleMinPathSum.cpp","tests":[{"id":1656397391995,"input":"4\n2 \n3 4 \n6 5 7 \n4 1 8 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\soura\\Desktop\\C++ notes\\codings\\DP\\TriangleMinPathSum.cpp","group":"local","local":true}

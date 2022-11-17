@@ -1,0 +1,1 @@
+{"name":"Local: matrixsearch","url":"c:\\Users\\soura\\Desktop\\C++ notes\\codings\\matrixsearch.cpp","tests":[{"id":1626928012583,"input":"3 3 5\n1 2 3 \n4 5 6 \n7 8 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\soura\\Desktop\\C++ notes\\codings\\matrixsearch.cpp","group":"local","local":true}

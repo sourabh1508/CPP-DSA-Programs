@@ -1,0 +1,1 @@
+{"name":"Local: UnboundedKnapsack","url":"c:\\Users\\soura\\Desktop\\C++ notes\\codings\\DP\\UnboundedKnapsack.cpp","tests":[{"id":1656921356241,"input":"3 15\n7 2 4\n5 10 20","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\soura\\Desktop\\C++ notes\\codings\\DP\\UnboundedKnapsack.cpp","group":"local","local":true}

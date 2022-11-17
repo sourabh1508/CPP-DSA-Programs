@@ -1,0 +1,1 @@
+{"name":"Local: MinimumFallingPathSum","url":"c:\\Users\\soura\\Desktop\\C++ notes\\codings\\DP\\MinimumFallingPathSum.cpp","tests":[{"id":1656404910559,"input":"3 3\n2 1 3\n6 5 4\n7 8 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\soura\\Desktop\\C++ notes\\codings\\DP\\MinimumFallingPathSum.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: LongestCommonSubstring","url":"c:\\Users\\soura\\Desktop\\C++ notes\\codings\\DP\\LongestCommonSubstring.cpp","tests":[{"id":1657017606434,"input":"abcde abce","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\soura\\Desktop\\C++ notes\\codings\\DP\\LongestCommonSubstring.cpp","group":"local","local":true}

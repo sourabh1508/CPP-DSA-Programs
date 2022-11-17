@@ -1,0 +1,1 @@
+{"name":"Local: FindParentandUnion","url":"c:\\Users\\soura\\Desktop\\C++ notes\\codings\\Graph\\FindParentandUnion.cpp","tests":[{"id":1654322024268,"input":"5\n1 2\n2 3\n4 5\n6 7\n4 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\soura\\Desktop\\C++ notes\\codings\\Graph\\FindParentandUnion.cpp","group":"local","local":true}
